@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Pytest
+.pytest_cache/
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+
+# Screenshots
+screenshots/
+
+# Reports
+reports/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Coverage
+.coverage
+htmlcov/
